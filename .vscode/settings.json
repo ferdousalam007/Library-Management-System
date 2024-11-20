@@ -1,0 +1,10 @@
+{
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.codeActionsOnSave": {},
+  "workbench.colorCustomizations": {
+"statusBar.background": "#750000",
+"titleBar.activeBackground": "#750000",
+"titleBar.inactiveBackground": "#750000"
+},
+  
+}
